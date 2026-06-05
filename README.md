@@ -89,6 +89,9 @@ El servidor DHCP no puede distinguir estas solicitudes de las legítimas y respo
 
 ## Entorno de laboratorio
 
+<img src="IMG/Topology.png" alt="Descripción" width="720"/>
+
+
 |Dispositivo|Rol|IP|MAC|
 |:--|:--|:--|:--|
 |R-1|Gateway / DHCP (víctima) / NAT|20.25.6.60/24|0c:16:94:84:00:00|
