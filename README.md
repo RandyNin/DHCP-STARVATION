@@ -149,7 +149,7 @@ Switch(config-if)# no shutdown
 
 ## Video demostrativo
 
-**Enlace:** [https://youtu.be/j5divLirQGg](https://youtu.be/j5divLirQGg)
+**Enlace:** [https://www.youtube.com/watch?v=j5divLirQGg&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp](https://www.youtube.com/watch?v=j5divLirQGg&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp)
 
 ---
 
